@@ -65,3 +65,11 @@
   width: 121px; 
   height: 45px;
 }
+
+.functionstext{
+  height: 44px;
+  padding: 0px;
+  font-size: 15px;
+  font-weight: bolder;
+  letter-spacing: 1.2px;
+}
