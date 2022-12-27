@@ -20,18 +20,19 @@
     margin-left: 31px;
   }
 
-/* .imgcss{
+.imgcss{
     width:80px ; 
     height: 80px; 
-    margin-left: 8rem; 
-    margin-top:-4rem !important;
+    margin-left: 81px; 
+    margin-top: 7px !important;
     border-style: solid;
     border-color: white;
-} */
+}
 
 .cardtextalignment{
   margin-top: 13px;
   margin-left: 31px;
+  font-size:13px !important;
 }
 
 .tales {
