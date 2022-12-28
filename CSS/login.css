@@ -15,19 +15,17 @@
   .cardcss{
     width: 80% !important;
     border-radius: 10px !important;
-    height:30rem;
+    height:490px;
     margin-top: 101px !important; 
     margin-left: 31px;
   }
 
-.imgcss{
-    width:80px ; 
-    height: 80px; 
-    margin-left: 81px; 
-    margin-top: 7px !important;
+/* .imgcss{
+    width:70px ; 
+    height: 70px; 
     border-style: solid;
     border-color: white;
-}
+} */
 
 .cardtextalignment{
   margin-top: 13px;
