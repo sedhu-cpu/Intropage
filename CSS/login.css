@@ -28,8 +28,7 @@
 } */
 
 .cardtextalignment{
-  margin-top: 13px;
-  margin-left: 31px;
+  text-align: center !important;
   font-size:13px !important;
 }
 
